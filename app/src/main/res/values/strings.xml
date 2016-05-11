@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Versions</string>
+    <string name="gingerbread">Ginger Bread</string>
+    <string name="honeycomb">Honey Comb</string>
+    <string name="icecream">Icecream Sandwich</string>
+    <string name="jellybean">Jelly Bean</string>
+    <string name="kitkat">Kit Kat</string>
+    <string name="lollipop">Lollipop</string>
+
+</resources>
